@@ -1,0 +1,26 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "projet pour synchroniser le fichier css",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amagarai/autoCssSync.git"
+  },
+  "keywords": [
+    "CSS synchronization",
+    "VSCode extension"
+  ],
+  "author": "Amagaraï Guindo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amagarai/autoCssSync/issues"
+  },
+  "homepage": "https://github.com/Amagarai/autoCssSync#readme",
+  "dependencies": {
+    "vscode": "^1.1.37"
+  }
+}
